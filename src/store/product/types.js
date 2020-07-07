@@ -1,0 +1,5 @@
+export const CLEAN_PRODUCT = 'CLEAN_PRODUCT';
+export const CLEAN_LIST = 'CLEAN_LIST_PRODUCT';
+export const GET_ONE_PRODUCT = 'GET_ONE_PRODUCT';
+export const GET_ALL_PRODUCT = 'GET_ALL_PRODUCT';
+export const GET_PRODUCT_LIST = 'GET_PRODUCT_LIST';

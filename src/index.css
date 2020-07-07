@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  box-sizing:  border-box;
+  font-family: "Open Sans", "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input {
+  outline: none !important;
+}
+
+button {
+  outline: none !important;
+}

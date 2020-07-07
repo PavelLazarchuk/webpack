@@ -1,0 +1,10 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+html, body {
+  height: 100vh;
+}
+
+.color-main {
+  color: #212529;
+  background-color: #e9ecef;
+}
